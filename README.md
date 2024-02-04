@@ -21,27 +21,36 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45" />
 </p>
 
-💻<b>Connect with me on</b>📱
 
-<p>
+<p align="left">  
+🎷Now Playing - Spotify 🎧
+<p/>
+
+<p align="left">
+<a href=""
+  
+<img src=""/>
+</a>
+</p>
+
+
+
+<p align="right">
+💻<b>Connect with me on</b>📱
+</p>
+<p align="right">
 <a href="https://www.linkedin.com/in/nicholas-s-87834b29b/" target="blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/>
 </a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="45" height="45"/>
 </p>
 
-<p align="right">  
-🎷Now Playing - Spotify 🎧
-<a href=""
-  
-<img src=""/>
-</a>
-</p>
 
 
 
