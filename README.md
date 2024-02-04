@@ -23,9 +23,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45" />
 </p>
 
-💻Connect with me📱
+💻<b>Connect with me on</b>📱
 
 <p>
 <a href="https://www.linkedin.com/in/nicholas-s-87834b29b/" target="blank">
@@ -34,8 +35,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="45" height="45"/>
 </p>
 
-
-
+<p align="right">  
+🎷Now Playing - Spotify 🎧
+<a href=""
+  
+<img src=""/>
+</a>
+</p>
 
 
 
