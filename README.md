@@ -29,7 +29,7 @@
 
 
 <p align="left">  
-<img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/data-nik/data-nik/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 
