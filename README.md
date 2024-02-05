@@ -29,14 +29,7 @@
 
 
 <p align="left">  
-🎷Now Playing - Spotify 🎧
-<p/>
-
-<p align="left">
-<a href=""
-  
-<img src=""/>
-</a>
+<img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 
