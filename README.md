@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=%20🧙‍♀️%20Welcome,%20Web%20Wizards%20🧙‍♂️%20&fontSize=55&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=%20🧙‍♀️%20Welcome,%20Web%20Wizards%20🧙‍♂️%20&fontSize=55&fontColor=999999" />
 </p> 
 
 <p align="center">
@@ -24,20 +24,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45" />
-</p>
-
-
-<p align="left">  
-<img src="https://github.com/data-nik/data-nik/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//microsoftsqlserver//microsoftsqlserver-plain-wordmark.svg" alt="/microsoftsqlserver" width="45" height="45" />
 </p>
 
 
 
-<p align="right">
+<p align="center">
 💻<b>Connect with me on</b>📱
 </p>
-<p align="right">
+<p align="center">
 <a href="https://www.linkedin.com/in/nicholas-s-87834b29b/" target="blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/>
 </a>
