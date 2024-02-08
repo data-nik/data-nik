@@ -8,7 +8,7 @@
 </p> 
 
 <p align="center">
-🛠️<b>Tools I am learning and have worked with</b>⚒️
+🛠️  <b>Tools I am learning and have worked with</b>  ⚒️
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 
 <p align="center">
-💻<b>Connect with me on</b>📱
+💻  <b>Connect with me on</b>  📱
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/nicholas-s-87834b29b/" target="blank">
