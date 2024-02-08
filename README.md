@@ -32,6 +32,9 @@
 <p align="center">
 💻  <b>Connect with me on</b>  📱
 </p>
+
+
+
 <p align="center">
 <a href="https://www.linkedin.com/in/nicholas-s-87834b29b/" target="blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/>
@@ -41,6 +44,13 @@
 
 
 
+<p align="center">
+👨‍🔧  <b>View some of my projects</b>  👨‍💻
+</p>
+<p align="center">
+<a href="https://data-nik.github.io/" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="chrome" width="45" height="45"/>
+</p>
 
 <p align="center"> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer" />
