@@ -1,4 +1,5 @@
 
+
 <!--
 **data-nik/data-nik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -6,6 +7,11 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=%20🧙‍♀️%20Welcome,%20Web%20Wizards%20🧙‍♂️%20&fontSize=55&fontColor=999999" />
 </p> 
+
+<p align="center">
+📊  My name is Nicholas Stroupe and im studying Data Analysis  📈📉
+</p>
+
 
 <p align="center">
 🛠️  <b>Tools I am learning and have worked with</b>  ⚒️
