@@ -9,7 +9,7 @@
 </p> 
 
 <p align="center">
-📊  My name is Nicholas Stroupe and I'm an aspiring Data Analysis  📈📉
+📊  My name is Nicholas Stroupe and I'm an aspiring Data Analyst  📈📉
 </p>
 
 
