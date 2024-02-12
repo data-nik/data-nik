@@ -23,7 +23,7 @@
 
 
 <p align="center">
-My name is Nicholas Stroupe and I am pursuing a career in Data Analysis
+ Nicholas Stroupe | Studying Data Analysis
 </p>
 
 
