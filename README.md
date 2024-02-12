@@ -3,23 +3,10 @@
 <!--
 **data-nik/data-nik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<p align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header" />
-</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=%20🧙‍♀️%20Welcome,%20Web%20Wizards%20🧙‍♂️%20&fontSize=55&fontColor=999999" />
 </p> 
-
-
-
-<p align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=125&section=footer" />
-</p>
-<p align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=125&section=header" />
-</p>
-
 
 
 <p align="center">
