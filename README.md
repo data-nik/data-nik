@@ -57,5 +57,5 @@
 </p>
 
 <p align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=160&section=footer" />
 </p>
