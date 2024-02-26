@@ -43,7 +43,7 @@
 
 
 <p align="center">
-👨‍🔧  <b>View some of my projects</b>  👨‍💻
+👨‍🔧  <b>View some of my personal projects</b>  👨‍💻
 </p>
 <p align="center">
 <a href="https://data-nik.github.io/" target="blank">
