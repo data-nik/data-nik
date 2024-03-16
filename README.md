@@ -48,7 +48,7 @@
 </p>
 <p align="center">
 <a href="https://data-nik.github.io/" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="githubactions" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ie10/ie10-original.svg" alt="ie10" width="45" height="45"/>
 </p>
 
 <p align="center"> 
