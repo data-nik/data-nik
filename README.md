@@ -49,6 +49,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ie10/ie10-original.svg" alt="ie10" width="45" height="45"/>
 </p>
 
+
 <p align="center"> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=170&section=footer" />
 </p>
