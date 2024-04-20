@@ -4,7 +4,7 @@
 
 
 <p align="center">
-📈 Nicholas Stroupe  |  Studying Data Analysis 📊
+📈 Nicholas Stroupe  |  Studying Data Analysis @ Nashville Software School 📊
 </p>
 
 
