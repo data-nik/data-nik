@@ -4,12 +4,12 @@
 
 
 <p align="center">
-📈 My name is Nicholas Stroupe and I am currently studying Data Analysis at Nashville Software School full time 📊
+📈 My name is Nicholas Stroupe. I'm currently studying Data Analysis at Nashville Software School full time. 📊
 </p>
 
 
 <p align="center">
-🛠️   <b> These are the tools I am learning and have worked with </b>   ⚒️
+🛠️   <b> These are the tools I am learning and have worked with. </b>   ⚒️
 </p>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="windows11" width="45" height="45"/>
@@ -30,7 +30,7 @@
 
 
 <p align="center">
-💻  <b>    You can connect with me here    </b>  📱
+💻  <b>    You can connect with me here.    </b>  📱
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/nicholas-s-87834b29b/" target="blank">
@@ -42,7 +42,7 @@
 
 
 <p align="center">
-👨‍🔧  <b> View my webpage </b>  👨‍💻
+👨‍🔧  <b> View my webpage! </b>  👨‍💻
 </p>
 <p align="center">
 <a href="https://data-nik.github.io/" target="blank">
