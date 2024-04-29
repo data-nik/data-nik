@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=320&section=header&text=%20🧙‍♀️%20Welcome,%20Web%20Wizards!%20🧙‍♂️%20&fontSize=60&fontColor=999999" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=320&section=header&text=%20🧙‍♀️%20Welcome,%20Web%20Wizards!%20🧙‍♂️%20&fontSize=60&fontColor=999999"/>
 </p> 
 
 
@@ -24,7 +24,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//microsoftsqlserver//microsoftsqlserver-plain-wordmark.svg" alt="/microsoftsqlserver" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//microsoftsqlserver//microsoftsqlserver-plain-wordmark.svg" alt="/microsoftsqlserver" width="45" height="45"/>
 </p>
 
 
@@ -51,5 +51,5 @@
 
 
 <p align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=170&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=170&section=footer"/>
 </p>
