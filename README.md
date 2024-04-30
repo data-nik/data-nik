@@ -30,7 +30,7 @@
 
 
 <p align="center">
-💻  <b>    You can connect with me here.    </b>  📱
+💻  <b>   You can connect with me here.   </b>  📱
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/nicholas-s-87834b29b/" target="blank">
