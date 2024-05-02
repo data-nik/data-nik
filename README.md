@@ -9,7 +9,7 @@
 
 
 <p align="center">
-🛠️   <b> These are the tools I am learning and have worked with. </b>   ⚒️
+🛠️  <b> These are the tools I am learning and have worked with. </b>  ⚒️
 </p>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="windows11" width="45" height="45"/>
