@@ -9,7 +9,7 @@
 
 
 <p align="center">
-🛠️  <b> These are the tools I am learning and have worked with. </b>  ⚒️
+🛠️ <b> These are the tools I am learning and have worked with. </b> ⚒️
 </p>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="windows11" width="45" height="45"/>
@@ -30,7 +30,7 @@
 
 
 <p align="center">
-💻 <b>   You can connect with me here.   </b> 📱
+💻 <b>  You can connect with me here.  </b> 📱
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/nicholas-stroupe-18b3a12b2/" target="blank">
