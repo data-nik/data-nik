@@ -9,7 +9,7 @@
 
 
 <p align="center">
-⚒️ <b> What I am currently focused on learning and becoming more proficent with. </b> 🛠️
+⚒️ <b> What I am currently focused on learning and becoming more proficent with </b> 🛠️
 </p>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="windows11" width="45" height="45"/>
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-🛠️ <b> Other tools I have beome acquainted with in the past. </b> ⚒️
+🛠️ <b> Other tools I have beome acquainted with in the past </b> ⚒️
 </p>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="powershell" width="45" height="45"/>
@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-💻 <b>  You can connect with me here.  </b> 📱
+💻 <b>  You can connect with me here  </b> 📱
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/nicholas-stroupe-18b3a12b2/" target="blank">
@@ -51,7 +51,7 @@
 
 
 <p align="center">
-👨‍🔧  <b> View my webpage! </b>  👨‍💻
+👨‍🔧  <b> View my webpage </b>  👨‍💻
 </p>
 <p align="center">
 <a href="https://data-nik.github.io/" target="blank">
