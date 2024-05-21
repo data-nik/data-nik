@@ -4,7 +4,7 @@
 
 
 <p align="center">
-📈 My name is Nicholas Stroupe. I'm currently studying Data Analysis at Nashville Software School full-time. 📊
+📈 My name is Nicholas Stroupe. I'm currently a full-time student at Nashville Software School. 📊
 </p>
 
 
