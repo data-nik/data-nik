@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-💻 <b>  You can connect with me here  </b> 📱
+💻 <b> You can connect with me here </b> 📱
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/nicholas-stroupe-18b3a12b2/" target="blank">
