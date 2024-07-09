@@ -14,9 +14,12 @@
 📈 My name is Nicholas Stroupe. I'm currently a full-time student at Nashville Software School. 📊
 </p>
 
+
+
 <p align="center">
 Pursuing a career in Data Analytics
 </p>
+
 
 
 <p align="center">
