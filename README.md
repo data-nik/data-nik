@@ -5,11 +5,6 @@
 
 
 
-
-
-
-
-
 <p align="center">
 📈 My name is Nicholas Stroupe. I'm currently a full-time student at Nashville Software School. 📊
 </p>
@@ -65,11 +60,6 @@ Pursuing a career in Data Analytics
 <a href="https://data-nik.github.io/" target="blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ie10/ie10-original.svg" alt="ie10" width="45" height="45"/>
 </p>
-
-
-
-
-
 
 
 
