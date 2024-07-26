@@ -14,9 +14,6 @@
 </p>
 
 
-<p align="center">
-Pursuing a career in Data Analytics
-</p>
 
 
 <p align="center">
