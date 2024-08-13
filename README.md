@@ -37,8 +37,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//microsoftsqlserver//microsoftsqlserver-plain-wordmark.svg" alt="/microsoftsqlserver" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dataspell/dataspell-original.svg" alt="dataspell" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original-wordmark.svg" alt="spyder" width="45" height="45"/>
 </p>
 
 
