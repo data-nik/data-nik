@@ -3,8 +3,6 @@
 </p> 
 
 
-
-
 <p align="center">
 📈 My name is Nicholas Stroupe. I'm currently a full-time student at Nashville Software School where I study Data Analytics. 📊
 </p>
@@ -38,6 +36,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//microsoftsqlserver//microsoftsqlserver-plain-wordmark.svg" alt="/microsoftsqlserver" width="45" height="45"/>
 </p>
+
+
+
 
 
 
