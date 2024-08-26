@@ -26,9 +26,10 @@
 
 
 <p align="center">
-🛠️<b> Other tools I have used in the past through personal hobby projects on my own time that lead me to them to get the job done </b>⚒️
+🛠️<b> Other tools I have used in the past with personal hobby projects on my own time that lead me to them to get the job done </b>⚒️
 </p>
 <p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="powershell" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>  
