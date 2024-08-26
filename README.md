@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=%20%20Welcome!%20%20&fontSize=60&fontColor=999999"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=%20🧙🏼‍♀️%20Welcome,%20Web%20Wizards!%20🧙🏼‍♂️%20&fontSize=60&fontColor=FFFFFF"/>
 </p> 
 
 
 <p align="center">
-📈 My name is Nicholas Stroupe. I'm currently a full-time student at Nashville Software School where I study Data Analytics. 📊
+📈 <b> My name is Nicholas Stroupe. I'm currently a full-time student at Nashville Software School where I study Data Analytics. </b> 📊
 </p>
 
 
@@ -26,7 +26,7 @@
 
 
 <p align="center">
-🛠️ <b> Other tools I have beome acquainted with in the past </b> ⚒️
+🛠️<b> Other tools I have used in the past through personal hobby projects on my own time that lead me to them to get the job done </b>⚒️
 </p>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="powershell" width="45" height="45"/>
