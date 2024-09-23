@@ -7,7 +7,6 @@
 📈 <b> My name is Nicholas Stroupe. I'm currently a full-time student at Nashville Software School where I study Data Analytics. </b> 📊
 </p>
 
-<p></p>
 
 <p align="center">
 ⚒️ <b> What I am currently focused on learning and becoming more proficent with </b> 🛠️
@@ -26,7 +25,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dataspell/dataspell-original.svg" width="45" height="45"/>
 </p>
 
-<p></p>
 
 <p align="center">
 🛠️<b> Other tools I have used in the past doing personal hobby projects on my own time that led me to them to get the job done </b>⚒️
@@ -49,7 +47,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" alt="firebase" width="45" height="45"/>
 </p>
 
-<p></p>
 
 <p align="center">
 💻 <b> Connect with me here </b> 📲
@@ -58,8 +55,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedin" width="95" height="95"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original-wordmark.svg" alt="slack" width="95" height="95"/>
 </p>
-
-
 
 
 <p align="center"> 
