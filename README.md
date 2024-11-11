@@ -48,7 +48,9 @@
 💻 <b> Connect with me here </b> 📲
 </p>
 <p align="center">
+<a href="https://scratch.mit.edu/projects/869544427/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt ="linkedin" width="45" height="45"/>
+  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" alt="slack" width="45" height="45"/>
 
 
@@ -57,7 +59,7 @@
 🎮 <b> Play a silly game I made </b>🕹️
 </p>
 <p align="center"> 
-<a href="https://scratch.mit.edu/projects/869544427/">
+<a href="www.linkedin.com/in/nicholas-stroupe">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" alt="chrome" width="45" height="45"/>
 </a>
 </p>
