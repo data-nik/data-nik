@@ -62,5 +62,5 @@
 </p>
 
 <p align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=footer&text=%20🌌🪐🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🔭🧑🏻‍🚀🌌🌌🌌🌌👽🛸🌌%20&fontSize=25&fontColor=FFFFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=footer&text=%20<|°_°|>%20&fontSize=25&fontColor=FFFFFF"/>
 </p>
