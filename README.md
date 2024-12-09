@@ -44,23 +44,22 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" alt="firebase" width="45" height="45"/>
 </p>
 
-<p align="center">
+
+<p align="left">
 💻 <b> Connect with me here </b> 📲
 </p>
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/nicholas-stroupe/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt ="linkedin" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" alt="slack" width="45" height="45"/>
 
-<p align="center">
+<p align="right">
 🎮 <b> Play a silly game I made </b>🕹️
 </p>
-<p align="center"> 
+<p align="right"> 
 <a href="https://scratch.mit.edu/projects/869544427">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" alt="chrome" width="45" height="45"/>
 </a>
 </p>
-
 
 <p align="right"> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=footer&text=%20🛸%20&fontSize=40&fontColor=FFFFFF"/>
