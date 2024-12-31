@@ -58,6 +58,13 @@
 </a>
 </p>
 
+<p align="left">
+🚀 <b> Explore the Solar System </b> 👽
+</p>
+<p align="left">
+<a href="https://codepen.io/data_astro/pen/MYgbNqe">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" alt="chrome" width="45" height="45"/>
+
 <p align="right"> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=footer&text=%20🪐🛰️%20&fontSize=40&fontColor=FFFFFF"/>
 </p>
