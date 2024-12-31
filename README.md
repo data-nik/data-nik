@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-⚒️ <b> What I am currently focused on becoming more proficent and familiar with </b> 🛠️
+⚒️ <b> What I am currently focused on becoming proficent with </b> 🛠️
 </p>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="windows11" width="45" height="45"/>
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-🛠️<b> Other tools I have used in the past doing random personal hobby projects </b>⚒️
+🛠️<b> Other tools I have become familiar with doing random personal hobby projects </b>⚒️
 </p>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="powershell" width="45" height="45"/>
@@ -50,7 +50,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt ="linkedin" width="45" height="45"/>
 
 <p align="right">
-🎮 <b> Play a silly game I made </b>🕹️
+🎮 <b> Play a silly game I made in the first week of CS50 </b>🕹️
 </p>
 <p align="right"> 
 <a href="https://scratch.mit.edu/projects/869544427">
