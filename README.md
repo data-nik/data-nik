@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=%20%👩🏻‍🚀%20Welcome,%20Web%20Wizards!%20👨🏾‍🚀%20&fontSize=60&fontColor=FFFFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=%20%👩🏻‍🚀%20Welcome,%20Web%20Wizards.%20👨🏾‍🚀%20&fontSize=60&fontColor=FFFFFF"/>
 </p> 
 
 <p align="center">
-📈 <b> My name is Nicholas Stroupe. I'm currently a full-time student at Nashville Software School where I study Data Analytics. </b> 📊
+📈 <b> My name is Nicholas Stroupe. I'm a Data Analyst and tech hobbyist. </b> 📊
 </p>
 
 <p align="center">
@@ -43,14 +43,14 @@
 
 
 <p align="left">
-💻 <b> Connect with me here </b> 📲
+💻 <b> Connect with me here if you want to talk about data, space exploration, technology, music, or want to work together. </b> 📲
 </p>
 <p align="left">
 <a href="https://www.linkedin.com/in/nicholas-stroupe/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt ="linkedin" width="45" height="45"/>
 
 <p align="right">
-🎮 <b> Play a silly game I made in the first week of CS50 </b>🕹️
+🎮 <b> Play a silly game I made in my first week of CS50 </b>🕹️
 </p>
 <p align="right"> 
 <a href="https://scratch.mit.edu/projects/869544427">
@@ -59,7 +59,7 @@
 </p>
 
 <p align="left">
-🚀 <b> Explore the Solar System </b> 👽
+🚀 <b> Explore the Solar System in code </b> 👽
 </p>
 <p align="left">
 <a href="https://codepen.io/data_astro/pen/MYgbNqe">
