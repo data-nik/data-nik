@@ -43,7 +43,7 @@
 
 
 <p align="left">
-💻 <b> Connect with me here if you want to talk about data, space exploration, technology, music, or want to work together. </b> 📲
+💻 <b> Connect with me here if you want to work together. </b> 📲
 </p>
 <p align="left">
 <a href="https://www.linkedin.com/in/nicholas-stroupe/">
