@@ -44,7 +44,7 @@
 
 
 <p align="left">
-💻 <b> Connect with me here if you want to work together or talk data. </b> 📲
+💻 <b> Feel free to connect with me here </b> 📲
 </p>
 <p align="left">
 <a href="https://www.linkedin.com/in/nicholas-stroupe/">
