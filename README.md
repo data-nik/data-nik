@@ -46,7 +46,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" alt="slack" width="45" height="45"/>
   
 <p align="right">
-🎮 <b> Play a game I made in my first week of CS50 </b>🕹️
+🎮 <b> Play a game I made on Scratch in my first week of CS50 </b>🕹️
 </p>
 <p align="right"> 
 <a href="https://scratch.mit.edu/projects/869544427">
