@@ -3,7 +3,7 @@
 </p> 
 
 <p align="center">
-📈 <b> My name is Nicholas Stroupe. I'm a Data Analyst who enjoys exploring outer space with data and helping people make better data driven decisions. </b> 📊
+📈 <b> My name is Nicholas Stroupe. I'm a Data Analyst who enjoys exploring outer space and earth science with data and helping people make better data driven decisions. </b> 📊
 </p>
 
 <p align="center">
