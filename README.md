@@ -10,6 +10,8 @@
 ⚒️ <b> What I am currently focused on becoming proficent with </b> 🛠️
 </p>
 <p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"//>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="anaconda" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>
@@ -45,19 +47,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" alt="slack" width="45" height="45"/>
   
-<p align="right">
-🎮 <b> Play a game I made on Scratch in my first week of CS50 </b>🕹️
-</p>
-<p align="right"> 
-<a href="https://scratch.mit.edu/projects/869544427">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" alt="chrome" width="45" height="45"/>
-</a>
-</p>
 
-<p align="left">
+<p align="right">
 🚀 <b> Explore the Solar System with CSS </b> 👽
 </p>
-<p align="left">
+<p align="right">
 <a href="https://codepen.io/data_astro/pen/MYgbNqe">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
 
