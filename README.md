@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=%20%🪐%20Hello,%20World!%20🌎%20&fontSize=60&fontColor=FFFFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=%20%🪐%20Hello,%20Traveler%20🌎%20&fontSize=60&fontColor=FFFFFF"/>
 </p> 
 
 <p align="center">
@@ -57,5 +57,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
 
 <p align="right"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=footer&text=%20🛰️%20Travel%20Safe%20🚀%20&fontSize=40&fontColor=FFFFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=footer&text=%20🛰️%20Remember%20to%20Enjoy%20the%20Journey%20🚀%20&fontSize=40&fontColor=FFFFFF"/>
 </p>
