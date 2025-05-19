@@ -34,7 +34,7 @@
   
 
 <p align="right">
-🚀 <b> Or explore the Solar System with CSS </b> 👽
+🚀 <b> Or even explore the Solar System with CSS here </b> 👽
 </p>
 <p align="right">
 <a href="https://codepen.io/data_astro/pen/MYgbNqe">
@@ -42,5 +42,5 @@
 
 
 <p align="right"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=footer&text=%20🛰️%20Safe%20travels%20on%20your%20Journey%20🚀%20&fontSize=40&fontColor=FFFFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=footer&text=%20🛰️%20Please%20be%20kind%20to%20other%20lifeforms%20on%20your%20journey%20🚀%20&fontSize=30&fontColor=FFFFFF"/>
 </p>
